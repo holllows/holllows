@@ -4,7 +4,7 @@
 class Hollows:
     @staticmethod
     def stuff():
-        languages = ["Python", "Js", "C"]
+        languages = ["Python", "Js", "Go"]
         learning = "Backend development"
 
         return languages, learning
